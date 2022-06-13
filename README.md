@@ -1,6 +1,9 @@
 # Wild-Animal-Detection
 This project is a deep learning project implemented using MobileNet V2.
 
+# Dataset
+https://www.kaggle.com/datasets/vishweshsalodkar/wild-animals
+
 # Softwares
 1. VS Code (https://code.visualstudio.com)
 2. Python3 (https://python.org)
