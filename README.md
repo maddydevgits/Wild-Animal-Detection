@@ -2,8 +2,8 @@
 This project is a deep learning project implemented using MobileNet V2.
 
 # Softwares
-1. VS Code
-2. Python3
+1. VS Code (https://code.visualstudio.com)
+2. Python3 (https://python.org)
 
 # Packages
 1. pip install tensorflow
